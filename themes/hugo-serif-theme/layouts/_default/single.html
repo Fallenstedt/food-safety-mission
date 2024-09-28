@@ -8,4 +8,4 @@
     </div>
   </div>
 </div>
-{{ end }}
+{{if eq .Page.Title "About"}} {{ partial "features.html" .}} {{end}} {{ end }}
