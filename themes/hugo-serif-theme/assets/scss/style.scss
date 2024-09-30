@@ -59,9 +59,7 @@ body {
 }
 
 .honeypot {
-  height: 0;
-  width: 0;
-  opactiy: 0;
+  display: none !important;
   position: absolute;
   left: 100%;
 }
