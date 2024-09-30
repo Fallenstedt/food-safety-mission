@@ -8,4 +8,5 @@
     </div>
   </div>
 </div>
-{{if eq .Page.Title "About"}} {{ partial "features.html" .}} {{end}} {{ end }}
+{{if or (eq .Page.Title "About")}} {{ partial "features.html" .}} {{end}} {{ end
+}}
