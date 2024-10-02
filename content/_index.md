@@ -10,6 +10,6 @@ intro_image_hide_on_mobile: true
 
 # Your Food Safety Partner
 
-We specialize in ensuring food safety compliance by assessing protocols, providing knowledge and guidance, and implementing comprehensive safety strategies. From developing and implementing GMP, passing SQF audits, and buidling HACCP plans, we work closely with you to maintain the highest food safety standards.
+Food Safety Mission specializes in ensuring food safety compliance by assessing protocols, providing knowledge and guidance, and implementing comprehensive safety strategies. From developing and implementing GMP, passing SQF audits, and buidling HACCP plans, we work closely with you to maintain the highest food safety standards.
 
 Food Safety Mission provides in-depth training, stays current with industry regulations, and supports certification processes, helping you achieve compliance and safeguard your food production operations.

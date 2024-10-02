@@ -3,7 +3,7 @@ title: "About"
 date: 2018-02-22T17:01:34+07:00
 ---
 
-Liliya’s education and various respectful training put her in an elite class of food safety professionals. She has a Master’s Degree in Science from Samarkand State University and broad spectrum of knowledge and experience in food processing industry where she is intimately involved with all aspects of food handling and processing.
+Food Safety Mission is ran by Liliya Pirumova. Liliya’s education and various respectful training put her in an elite class of food safety professionals. She has a Master’s Degree in Science from Samarkand State University and broad spectrum of knowledge and experience in food processing industry where she is intimately involved with all aspects of food handling and processing.
 
 Liliya earned the following certification:
 
