@@ -1,13 +1,12 @@
 .logo {
+  font-size: 26px;
+  font-family: "Playfair Display", serif, -apple-system;
   display: none;
   @include media-breakpoint-up(sm) {
     display: block;
   }
   a {
     display: block;
-  }
-  img {
-    width: auto;
   }
 }
 .logo-mobile {
@@ -17,8 +16,5 @@
   }
   a {
     display: block;
-  }
-  img {
-    width: auto;
   }
 }
