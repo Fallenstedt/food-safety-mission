@@ -1,7 +1,7 @@
 ---
 title: "Homepage"
 meta_title: "Food Safety Mission"
-description: "Serif is a modern business theme for Hugo."
+description: "Food Safety Mission provides expert consulting services to ensure compliance with food safety regulations. We develop custom safety programs, offer audit preparation, and train teams on best practices to protect your business and meet industry standards."
 intro_image: "images/food.jpg"
 intro_image_absolute: true # makes the image use css position: absolute; so it looks "offset". It's a visual effect that might not always look good depending on the image you use.
 intro_image_absolute_offset: "auto auto -100px -80px" # used to tweak the positioning of the absolute image if enabled above
