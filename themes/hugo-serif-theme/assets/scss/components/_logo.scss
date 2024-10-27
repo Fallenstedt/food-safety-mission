@@ -1,20 +1,35 @@
 .logo {
-  font-size: 26px;
   font-family: "Playfair Display", serif, -apple-system;
   display: none;
+  width: 100%;
+  // border: 2px solid red;
+  justify-content: center;
   @include media-breakpoint-up(sm) {
-    display: block;
+    display: flex;
   }
   a {
+    font-size: 36px;
     display: block;
   }
+
+  .logo-caption {
+    // text-align: center;
+  }
+
+  .logo-container {
+    // border: 2px solid blue;
+    width: fit-content;
+    text-align: center;
+  }
 }
+
 .logo-mobile {
   display: block;
   @include media-breakpoint-up(sm) {
     display: none;
   }
   a {
+    font-size: 26px;
     display: block;
   }
 }
